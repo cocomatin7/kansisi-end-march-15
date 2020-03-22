@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam one
@@ -10,26 +11,28 @@ https://1046528484.rsc.cdn77.org/1046528484/tracks-v1a1/mono.m3u8
 https://1812661481.rsc.cdn77.org/1812661481/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
 https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1445504028.jpg"group-title="Tanzania",ZBC 2 
+#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1445504028.jpg" group-title="Tanzania",ZBC 2 
 https://1367936109.rsc.cdn77.org/1367936109/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DYLftywVQAIHKS4.jpg" group-title="Tanzania",Wasafi tv
-#EXTINF:-1,sinema zetu
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Sinema Zetu
 https://1122725381.rsc.cdn77.org/1122725381/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://channeten.co.tz/tan/chanel_image.jpg" group-tittle="Tanzania",Chanel ten
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2157900.png" group-title="Tanzania",TBC 1
+http://cloudflare-video.gslb.startimestv.com/live/TBC_1_908_250_320x240_194044/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Channel Ten 
 http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://startv.co.tz/startvweb//templates/startvtemplate/images/startv.png" group-title="Tanzania",Star TV
 https://c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com/out/v1/1d3644d62aa24a7faa517fa2ee4dfb36/index_5.m3u8
-#EXTINF:-1,star Tollywood 
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Star Tollywood
 https://dzsyqiq0bqmiv.cloudfront.net/out/v1/7a70e65e9b1248e0a4335fd0c7d490b5/index.m3u8
-#EXTINF:-1,star movies plus 
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Star Movies Plus
 https://d36c5r2n2jqqur.cloudfront.net/out/v1/85bafa9bd4164584ba02d6132628a914/index.m3u8
-#EXTINF:-1,star enternainment
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Star Entertainment
 https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1d4b46bfcee7bd230bfd37/index.m3u8
-#EXTINF:-1,star religion
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Star Religion
 https://dhcnmu459epi9.cloudfront.net/out/v1/ebef7cceb9ca4341b062a41e973ebafe/index.m3u8
-#EXTINF:-1,star kids
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Star Kids
 https://dk060jrsrag5c.cloudfront.net/out/v1/09eb64a75d794f63ad7e2ee993edc619/index.m3u8
-#EXTINF:-1,safari tv
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Safari tv
 https://live-tanzaniasafari2020.cdnvideo.ru/tanzaniasafari2020/tanzaniasafari2020/playlist.m3u8
 
 
@@ -592,14 +595,6 @@ http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/pl
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1,NICKELODEON
-http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,DISNEY CHANEL
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:0 "Kids/Animation",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 #EXTINF:21,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:-1,Discovery Kids
@@ -609,13 +604,13 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:0 "Kids",Boomerang
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
-#EXTINF:-1,Disney
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FIX AND FOX
+#EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
 http://1301485333.rsc.cdn77.org/1301485333/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
@@ -752,6 +747,27 @@ http://vvn.neoredi.com/iptv/ch8510?code=103131497823984&key=53286
 http://vvn.neoredi.com/iptv/ch8511?code=103131497823984&key=40509
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
 http://vvn.neoredi.com/iptv/ch512?code=103131497823984&key=62995
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jdg1c6r/th1.png" group-title="Sports 2",Premier Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCqzyCPT/th2.png" group-title="Sports 2",Premier Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncHgQKjY/th3.png" group-title="Sports 2",Premier Football HD 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyM2mZLT/th4.png" group-title="Sports 2",Premier Football HD 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RKYPgCg/th5.png" group-title="Sports 2",Premier Football HD 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports 2",Arena Sports 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport2.rs.png" group-title="Sports 2",Arena Sports 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport3.rs.png" group-title="Sports 2",Arena Sports 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport4.rs.png" group-title="Sports 2",Arena Sports 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="Sports 2",Arena Sports 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 
 
@@ -953,7 +969,7 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nbs.ug/wp-content/uploads/2019/08/NBS-TV-Logo-1.png" group-title="Uganda",NBS
 http://1641497600.rsc.cdn77.org/1641497600/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntv.co.ug/image/view/-/4552762/data/1967367/-/bom96qz/-/logoMain.png" group-title="Uganda",NTV Uganda
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47789.m3u8
+http://1534761621.rsc.cdn77.org/1534761621/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/bigeye.ug/wp-content/uploads/2015/11/abs-tv.png" group-title="Uganda",ABS TV
 https://1572241182.rsc.cdn77.org/1572241182/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1068883900326440960/EOSPO0Uv_400x400.jpg" group-title="Uganda",Baba TV
